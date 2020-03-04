@@ -11,4 +11,4 @@ function outerFunction() {
 var myScope = outerFunction();
  
 // the stringified version of `innerScope()`
-myScope();
+myScope;
